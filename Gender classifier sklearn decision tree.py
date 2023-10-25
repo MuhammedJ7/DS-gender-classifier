@@ -22,7 +22,7 @@ clf = clf.fit(X, Y)
 
 prediction = clf.predict([[190, 70, 43]])
 
-# CHALLENGE compare their reusults and print the best one!
+# CHALLENGE compare their results and print the best one!
 
 print(prediction)
 #
